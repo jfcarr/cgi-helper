@@ -1,0 +1,4 @@
+src/.vscode/**
+www/.vscode/**
+
+www/cgi-bin/simple_py.cgi
